@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\DELL\source\repos\task2_ooplab14\task2_ooplab14\Source.cpp(78,38): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\DELL\source\repos\task2_ooplab14\task2_ooplab14\Source.cpp(79,35): warning C4305: 'argument': truncation from 'double' to 'float'
+  task2_ooplab14.vcxproj -> C:\Users\DELL\source\repos\task2_ooplab14\Debug\task2_ooplab14.exe
